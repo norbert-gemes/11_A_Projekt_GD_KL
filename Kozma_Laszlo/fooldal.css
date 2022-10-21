@@ -1,0 +1,19 @@
+#fejlec{
+    background: url(/img/kozma_laszlo_banner.jpg);
+    background-position-y: -900px;
+    background-repeat: repeat-y;
+    background-size: cover;
+    width: 100%;
+    min-height: 170px;
+    overflow: hidden;
+}
+#fejlec h2 {
+    margin:0;
+    font-size: 70px;
+    text-align: center;
+    width: 100%;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    color: aliceblue;
+    font-weight: bold;
+}
