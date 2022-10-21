@@ -85,6 +85,10 @@ h1{
     color: black;
 }
 
+.card-container .card .face2 .card-content a:hover{
+    background-color: black;
+    color: white;
+}
 .footer{
     display: flex;
     text-align: center;
