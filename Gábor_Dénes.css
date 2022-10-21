@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    background-image: url(img/Wallpaper_GN.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#banner{
+    background: url(img/GD_banner.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -100px;
+}
+
+#banner h1{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 10px 10px lightgray;
+}
+
+.oszlop2{
+    float: left;
+    margin: 5px;
+    width: calc(50%-10px);
+}
+
+.oszlop2 h2{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.oszlop2 p{
+    color: aliceblue;
+}
