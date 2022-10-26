@@ -1,62 +1,67 @@
-body{
-    margin: 0;
-    background-image: url(img/Wallpaper_GN.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+body {
+  margin: 0;
+  background-image: url(img/Wallpaper_GN.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-#banner{
-    background: url(img/GD_banner.jpg);
-    height: 350px;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: -100px;
+#banner {
+  background: url(img/GD_banner.jpg);
+  height: 350px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -100px;
 }
 
-#banner h1{
-    color: black;
-    font-size: 100px;
-    text-align: center;
-    text-shadow: 10px 10px lightgray;
+#banner h1 {
+  color: black;
+  font-size: 100px;
+  text-align: center;
+  text-shadow: 10px 10px lightgray;
 }
 
-.oszlop2{
-    float: left;
-    width: 50%;
+.oszlop2 {
+  float: left;
+  width: 45%;
+  height: 300px;
+  margin-left: 20px;
+  margin-top: 15px;
 }
 
-.oszlop2 h2{
-    color: aliceblue;
-    font-size: 40px;
+.oszlop2 h2 {
+  color: aliceblue;
+  font-size: 40px;
 }
 
-.oszlop2 p{
-    color: aliceblue;
+.oszlop2 p {
+  color: aliceblue;
 }
 
-.oszlop2 img{
-    float: left;
-    height: 200px;
-    margin: 0;
+.oszlop2 img {
+  float: left;
+  height: 300px;
+  margin: 0;
 }
 
-.oszlop2 .text{
-    display: block;
-    width: 60%;
-    margin: 0;
+.oszlop2 .text {
+  display: block;
+  width: 60%;
+  margin: 0;
+  font-size: 15px;
+  text-shadow: 2px 2px black;
 }
 
-.clear{
-    clear: both;
+.clear {
+  clear: both;
 }
 
-#footer{
-    width: 100%;
-    background-color: black;
-    height: 30px;
-    text-align: center;
-    font-style: italic;
-    font-weight: bold;
-    color: aliceblue;
+#footer {
+  width: 100%;
+  background-color: black;
+  height: 30px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  color: aliceblue;
 }
