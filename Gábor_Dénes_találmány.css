@@ -26,10 +26,12 @@ body {
   margin: 32px;
   background-color: beige;
   height: 500px;
+  overflow: auto;
 }
 
 .card img {
   height: 270px;
+  object-fit: cover;
 }
 
 .card .btn {
