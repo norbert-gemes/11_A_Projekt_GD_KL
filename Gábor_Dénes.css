@@ -3,6 +3,7 @@ body {
   background-image: url(img/Wallpaper_GN.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position-x: -40px;
 }
 
 #banner {
@@ -27,6 +28,7 @@ body {
   height: 300px;
   margin-left: 20px;
   margin-top: 15px;
+  margin-bottom: 5px;
 }
 
 .oszlop2 h2 {
@@ -42,6 +44,7 @@ body {
   float: left;
   height: 300px;
   margin: 0;
+  border-radius: 15px;
 }
 
 .oszlop2 .text {

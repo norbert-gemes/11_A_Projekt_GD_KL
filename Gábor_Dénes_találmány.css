@@ -27,6 +27,7 @@ body {
   background-color: beige;
   height: 500px;
   overflow: auto;
+  border-radius: 15px;
 }
 
 .card img {
