@@ -38,6 +38,7 @@ body {
 .card .btn {
   width: 200px;
   height: 30px;
+  padding: 0;
 }
 
 h3 {
